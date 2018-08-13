@@ -1,0 +1,14 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    font-size: 24px;
+    text-align: center;
+}
+
+p, ol, li {
+    font-size: 18px;
+    text-align: center;
+}
+
